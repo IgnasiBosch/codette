@@ -2,9 +2,9 @@
 
 ## Laravel project with Homestead
 
-clone repository
-`$ sudo composer install`
-`$ php vendor/bin/homestead make`
-`$ vagrant up`
-create .env configuration file
-add site map to hosts file
+clone repository<br>
+`$ sudo composer install`<br>
+`$ php vendor/bin/homestead make`<br>
+`$ vagrant up`<br>
+create .env configuration file<br>
+add site map to hosts file<br>
